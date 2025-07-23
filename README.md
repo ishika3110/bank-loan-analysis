@@ -2,6 +2,12 @@
 
 This project is a comprehensive, interactive dashboard built using Power BI to visualize and analyze a bank’s loan portfolio performance. The dashboard helps stakeholders make data-driven decisions by providing clear insights into loan application trends, funding performance, repayment behavior, and borrower segmentation.
 
+<img width="1440" height="809" alt="Image" src="https://github.com/user-attachments/assets/fa5ca12d-3125-4e6e-8289-3101bbb5e2ec" />
+
+<img width="1448" height="813" alt="Image" src="https://github.com/user-attachments/assets/31b7ddd9-5b36-4ef3-a940-3e0a6b1c87d1" />
+
+<img width="1442" height="810" alt="Image" src="https://github.com/user-attachments/assets/0dd5e952-c399-4878-9e89-403eb3cbeddf" />
+
 ## 📌 Project Overview
 
 The dashboard is divided into three main layers:
